@@ -21,7 +21,6 @@
     ```bash
     pip install -r requirements.txt
     ```
-4. **Konfiguration anpassen**: Bearbeiten Sie die `config.json` Datei nach Ihren Bedürfnissen.
 
 ## Nutzung
 

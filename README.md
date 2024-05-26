@@ -28,7 +28,7 @@ Starten Sie den Bot mit:
 ```bash
 python main.py
 
-Nachrichtenverarbeitungsfunktionen des Chatbots und Ergänzung der Modelltypen
+##Nachrichtenverarbeitungsfunktionen des Chatbots und Ergänzung der Modelltypen
 
 Die Nachrichtenverarbeitungsfunktionen des Chatbots sind von grundlegender Bedeutung für seine Interaktion mit den Benutzern.
 Sie umfassen eine Reihe von Schritten, die sicherstellen, dass eingehende Nachrichten effizient analysiert und entsprechend behandelt werden.
